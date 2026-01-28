@@ -3,4 +3,5 @@
 
 This study examines whether enrollment in government provided Free and Reduced Lunch programs in public schools is disproportionately higher in areas with predominantly minority populations. It explores the relationship between demographic composition and reliance on government aid for school meals.
 
-Please find the link to our video here: [Final Video](https://drive.google.com/file/d/1Mr4bGCnH64rR6bpHwKsXRyr88OurFqOU/view?usp=sharing)
+Study components and deployed webpages:
+- Big picture["https://sussmanbu.github.io/ma-4615-fa24-final-project-group-8/big_picture.html"]: 
